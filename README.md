@@ -18,3 +18,4 @@ với A_1,A_2,…,A_6  là bộ tỉ lệ diện tích của 6 tam giác,a_1,a_2
 **	Bộ thuộc tính đặc trưng tổng hợp:
 feature={[R^i,G^i,B^i,A_1^i,A_2^i,…,A_6^i,a_1^i,a_2^i,…,a_18^i ],i∈(1,n)}
 
+phương pháp được xây dựng lấy ý tưởng từ bài báo Face Recognition Based on Facial Landmark Detection (BMEiCON-2017)
