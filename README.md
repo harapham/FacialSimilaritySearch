@@ -12,7 +12,9 @@ với R,G,B là tham số màu sắc của 3 màu red,green,blue có khoảng t�
 Thực hiện trích rút đặc trưng là bộ tỉ lệ diện tích của 6 tam giác và 18 góc được hình thành từ các vector tạo nên từ 7 điểm chính trên khuôn mặt
 Định dạng đặc trưng 24 phần tử: 
 feature_point=[A_1,A_2,…,A_6,a_1,a_2,…,a_18 ]  
-với A_1,A_2,…,A_6  là bộ tỉ lệ diện tích của 6 tam giác,a_1,a_2,…,a_18  là bộ 18 góc 
-	Bộ thuộc tính đặc trưng tổng hợp:
+với A_1,A_2,…,A_6  là bộ tỉ lệ diện tích của 6 tam giác,a_1,a_2,…,a_18  là bộ 18 góc
+![image](https://github.com/harapham/FacialSimilaritySearch/assets/93029503/99c441d9-6c8a-4682-94fd-29fd66d8b7d5)
+
+**	Bộ thuộc tính đặc trưng tổng hợp:
 feature={[R^i,G^i,B^i,A_1^i,A_2^i,…,A_6^i,a_1^i,a_2^i,…,a_18^i ],i∈(1,n)}
 
